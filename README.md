@@ -1,4 +1,5 @@
-
+- https://kustomize.io/
+  
 Kustomize is a configuration management tool specifically designed for Kubernetes. It provides a way to customize application configurations without modifying the original YAML files, enabling more flexible and reusable Kubernetes deployments. Kustomize works by applying overlays to a set of base resources, allowing you to maintain clean, declarative configuration files while making environment-specific changes.
 
 Here are the key concepts and features of Kustomize:
