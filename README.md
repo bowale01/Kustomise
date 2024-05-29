@@ -6,7 +6,7 @@ Here are the key concepts and features of Kustomize:
 Key Concepts:
 1)  Base Resources:
 
-      - These are the core YAML manifests that define your Kubernetes resources. They are environment-agnostic and can be reused across different environments (e.g., development, staging, production).
+      - Core YAML manifests that define your Kubernetes resources. They are environment-agnostic and can be reused across different environments (e.g., development, staging, production).
         
 2) Overlays:
 
