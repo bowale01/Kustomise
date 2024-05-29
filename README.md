@@ -4,9 +4,9 @@ Kustomize is a configuration management tool specifically designed for Kubernete
 Here are the key concepts and features of Kustomize:
 
 Key Concepts:
-Base Resources:
+1)  Base Resources:
 
-These are the core YAML manifests that define your Kubernetes resources. They are environment-agnostic and can be reused across different environments (e.g., development, staging, production).
+      - These are the core YAML manifests that define your Kubernetes resources. They are environment-agnostic and can be reused across different environments (e.g., development, staging, production).
 Overlays:
 
 Overlays are additional configurations applied on top of base resources to customize them for specific environments. Overlays can include patches, configuration changes, and additional resources.
